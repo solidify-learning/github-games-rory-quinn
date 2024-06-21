@@ -1,5 +1,7 @@
 ## Welcome to GitHub Games
 
+Sneaky change here!
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://solidify-learning.github.io/github-games-rory-quinn/
